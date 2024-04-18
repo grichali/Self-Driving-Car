@@ -1,0 +1,2 @@
+you can get the simulator from this link : 
+https://github.com/udacity/self-driving-car-sim
